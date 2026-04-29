@@ -3,7 +3,7 @@
 This repository demonstrates how to run **Google Gemma 4 31B Instruct (Multimodal)** using Hugging Face Transformers, both **locally (GPU)** and via **remote inference providers**.
 
 ---
- 
+  
 ## 📌 Model Overview
 
 - **Model:** `google/gemma-4-31B-it`  
